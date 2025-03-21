@@ -9,17 +9,17 @@ number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+# area: AREA
+# workgroup: WG Working Group
 keyword:
  - test of I-D template
 venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+#  group: WG
+#  type: Working Group
+#  mail: WG@example.com
+#  arch: https://example.com/WG
+  github: "rohanmahy/test-id-template"
+  latest: "https://rohanmahy.github.io/test-id-template/draft-mahy-nowg-test.html"
 
 author:
  -
